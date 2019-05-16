@@ -1,0 +1,11 @@
+put sub families in data frame.
+
+calculate the avg time, avg usr , avg sys for each sub family.
+
+scenario 1 all data           (KMeans, KMedoide, LSTM, HMMs)
+
+scenario 2 req                (KMeans, KMedoide, LSTM, HMMs)
+
+scenario 3 common cases       (KMeans, KMedoide, LSTM, HMMs)
+
+scenario 4 uncommon case      (KMeans, KMedoide, LSTM, HMMs)
